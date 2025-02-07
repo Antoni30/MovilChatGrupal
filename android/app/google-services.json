@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780131904067",
+    "project_id": "chatboot-a9351",
+    "storage_bucket": "chatboot-a9351.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780131904067:android:f43d23053a6399f56182f6",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWAbGC3WthvSI1aUfbSpukMznNSm_kTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780131904067:android:1e6b66a6ce4364956182f6",
+        "android_client_info": {
+          "package_name": "com.example.chatenvivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWAbGC3WthvSI1aUfbSpukMznNSm_kTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
