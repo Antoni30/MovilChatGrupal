@@ -1,16 +1,22 @@
-# chat
+# 📱 Chat en Tiempo Real con Flutter, Firebase y Socket.io
 
-A new Flutter project.
+Esta es una aplicación de **chat en tiempo real** desarrollada con **Flutter y Firebase**. Permite a los usuarios registrarse, autenticarse y enviar mensajes en un chat global utilizando **Socket.io** y **Firestore** como base de datos.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologías Usadas
+- [Flutter](https://flutter.dev/)
+- [Firebase Authentication](https://firebase.google.com/docs/auth)
+- [Firestore Database](https://firebase.google.com/docs/firestore)
+- [Socket.io](https://socket.io/)
+- [Provider](https://pub.dev/packages/provider)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Instalación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1️⃣ Clonar el repositorio
+```sh
+git clone https://https://github.com/Antoni30/MovilChatGrupal.git
+cd MovilChatGrupal
+
